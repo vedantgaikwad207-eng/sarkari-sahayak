@@ -1,8 +1,10 @@
 # 🏛️ Sarkari Sahayak (सरकारी सहायक) — Scheme Journey Agent
 
+> 🚀 **Live Working Demo**: [https://vedantgaikwad207-eng.github.io/sarkari-sahayak/](https://vedantgaikwad207-eng.github.io/sarkari-sahayak/)  
 > **Multimodal Civic Welfare Agent for Bharat powered by Sarvam AI**  
 > *Identifies eligible government welfare schemes through official RAG retrieval, parses applicant KYC documents via Sarvam Vision, highlights missing items, and guides citizens step-by-step with spoken field confirmation via Bulbul.*
 
+[![Live Demo](https://img.shields.io/badge/Demo-Live%20Website-success.svg)](https://vedantgaikwad207-eng.github.io/sarkari-sahayak/)
 [![Sarvam AI](https://img.shields.io/badge/Powered%20By-Sarvam%20AI-orange.svg)](https://sarvam.ai)
 [![Sarvam-105B](https://img.shields.io/badge/Model-Sarvam--105B%20Conversations-blue.svg)](https://docs.sarvam.ai)
 [![Bulbul TTS](https://img.shields.io/badge/TTS-Bulbul%20v3-green.svg)](https://docs.sarvam.ai)
