@@ -1,0 +1,6 @@
+{
+  "name": "Sarkari Sahayak - Scheme Journey Agent",
+  "description": "AI welfare scheme journey agent using Sarvam-105B, Sarvam Vision, Bulbul TTS, and Saaras STT for scheme discovery, KYC extraction, and spoken form guidance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
